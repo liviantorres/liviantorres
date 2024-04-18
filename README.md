@@ -1,10 +1,6 @@
 ### Oii! Eu sou a Lívian Torres 
 
-<div>
-  <a href="https://github.com/liviantorres/liviantorres">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=liviantorres&show_icons=true&theme=transparent"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviantorres&hide_progress=true&theme=transparent"/>
-</div>
+
 
 <div style="display:inline_block">
    <img aling="center" alt="Livian-htlm" height="30cm" width="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
