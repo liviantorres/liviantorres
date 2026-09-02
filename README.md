@@ -12,7 +12,7 @@
 
 <br>
 
-### 🚀 Sobre mim
+### Sobre mim
 
 Gosto de **pegar problemas e transformar em software**.
 
