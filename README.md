@@ -3,8 +3,11 @@
   <p>Full Stack Developer · Computer Science</p>
 
   <a href="https://www.linkedin.com/in/lívian-torres-b5378a122/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-181717?logo=linkedin-white&logoColor=white&style=flat-square"
+    alt="LinkedIn"
+  />
+</a>
   <a href="https://www.instagram.com/livianm_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-181717?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
