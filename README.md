@@ -26,10 +26,10 @@ Atualmente, meu principal projeto é o **SARA**, uma aplicação que estou desen
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=43853D" />
   <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Flask-181717?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-181717?style=flat-square&logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=2496ED" />
