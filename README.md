@@ -25,7 +25,7 @@ Sou estudante de **Ciência da Computação na UFC**, no último ano, e atuo com
 
 Atualmente, meu principal projeto é o **SARA**, uma aplicação que estou desenvolvendo no meu TCC para transformar dados acadêmicos em informações que auxiliem na identificação e acompanhamento da retenção estudantil.
 
-### 💻 Tecnologias
+### 💻 Tecnologias e ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E" />
