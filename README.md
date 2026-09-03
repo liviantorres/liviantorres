@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Oii! Eu sou a Lívian Torres 👩🏻‍💻</h1>
+  <h1>Oii! Eu sou a Lívian Torres ⚡</h1>
   <p>Full Stack Developer · Computer Science</p>
 
   <a href="https://www.linkedin.com/in/lívian-torres-b5378a122/" target="_blank">
